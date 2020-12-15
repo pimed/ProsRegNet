@@ -1,2 +1,2 @@
-# ProsRegNet
+# ProsRegNet Implementation
 Implementation of ProsRegNet
