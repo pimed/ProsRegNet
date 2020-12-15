@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "type": "registration",
+    "method": {
+        "type": "3DRegistration",
+        "params": "-da -dd"
+    },
+    "output_path": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\results\\",
+    "studies2process": {
+        "aaa0069": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\jsonData\\reg_aaa0069.json"
+    },
+    "studies": {
+        "aaa0069": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\jsonData\\reg_aaa0069.json"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": "aaa0069",
+    "invivo-accession": "",
+    "exvivo-accession": "",
+    "fixed": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\datasets\\testing\\MRI\\aaa0069-T2_AXIAL_SM_FOV.mha",
+    "fixed-segmentation": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\datasets\\testing\\MRI\\aaa0069-T2_AXIAL_SM_FOV-prostate_label.nii.gz",
+    "fixed-landmarks2": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\datasets\\testing\\MRI\\aaa0069-T2_AXIAL_SM_FOV-urethra_label.nii.gz",
+    "fixed-landmarks3": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\datasets\\testing\\MRI\\aaa0069-T2-AXIAL-SM-FOV_cancer_label.mha",
+    "fixed-landmarks1": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\datasets\\testing\\MRI\\aaa0069_fixed_image-label.nii.gz",
+    "moving-type": "stack",
+    "moving": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\datasets\\testing\\Histology\\aaa0069.json",
+    "T2w": "C:\\Users\\weishao\\Desktop\\Code_ProsRegNet\\datasets\\testing\\MRI\\aaa0069-T2_AXIAL_SM_FOV.mha",
+    "ADC": "",
+    "DWI": ""
+}
