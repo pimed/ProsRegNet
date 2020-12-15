@@ -1,6 +1,6 @@
 # ProsRegNet Implementation
 
-![](pipeline.png)
+![](pictures/pipeline.png)
 
 This is the PyTorch implementation of the following paper:
 
