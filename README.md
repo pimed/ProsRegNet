@@ -1,6 +1,6 @@
 # ProsRegNet Implementation
 
-![](http://www.di.ens.fr/willow/research/cnngeometric/images/code_teaser.png)
+![](https://drive.google.com/file/d/16_wvSALdfWkbUQn5Guh9f04x34lVhaG8/view?usp=sharing)
 
 This is the PyTorch implementation of the following paper:
 
