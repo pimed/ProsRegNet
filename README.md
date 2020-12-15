@@ -39,5 +39,24 @@ run the registration_pipeline.ipynb jupyter notebok
 
 ### BibTeX
 
-If you use this code in your project, please cite us using:
+If you use this code, please cite the following papers:
 
+```bibtex
+@article{shao2020prosregnet,
+  title={ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate},
+  author={Shao, Wei and Banh, Linda and Kunder, Christian A and Fan, Richard E and Soerensen, Simon JC and Wang, Jeffrey B and Teslovich, Nikola C and Madhuripan, Nikhil and Jawahar, Anugayathri and Ghanouni, Pejman and others},
+  journal={arXiv preprint arXiv:2012.00991},
+  year={2020}
+}
+```
+
+and
+
+```bibtex
+@InProceedings{Rocco17,
+  author = {Rocco, I. and Arandjelovi\'c, R. and Sivic, J.},
+  title  = {Convolutional neural network architecture for geometric matching},
+  booktitle = {{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition}},
+  year = {2017},
+}
+```
