@@ -1,6 +1,6 @@
 # ProsRegNet Implementation
 
-![](https://drive.google.com/file/d/16_wvSALdfWkbUQn5Guh9f04x34lVhaG8/view?usp=sharing)
+![](pipeline.png)
 
 This is the PyTorch implementation of the following paper:
 
