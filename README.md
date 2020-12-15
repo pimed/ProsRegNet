@@ -45,7 +45,7 @@ If you use this code, please cite the following papers:
 @article{shao2020prosregnet,
   title={ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate},
   author={Shao, Wei and Banh, Linda and Kunder, Christian A and Fan, Richard E and Soerensen, Simon JC and Wang, Jeffrey B and Teslovich, Nikola C and Madhuripan, Nikhil and Jawahar, Anugayathri and Ghanouni, Pejman and others},
-  journal={arXiv preprint arXiv:2012.00991},
+  journal={Medical Image Analysis},
   year={2020}
 }
 ```
