@@ -20,7 +20,7 @@ cd ProsRegNet
 ```
 2. Download the [[training dataset](https://drive.google.com/file/d/1W3eV50pDGBKKz1XX6o6Fi7wzgAHZZBlr/view?usp=sharing)]:
 ```
-uzip the compressed folder named "dataset"
+uzip the compressed folder named "datasets", this folder contains two subfolders: "training" and "testing".
 ```
 
 
