@@ -19,9 +19,9 @@ git clone https://github.com/pimed/ProsRegNet.git
 cd ProsRegNet
 ```
 2. Download the training dataset:
-```
-[[training dataset](https://drive.google.com/file/d/1W3eV50pDGBKKz1XX6o6Fi7wzgAHZZBlr/view?usp=sharing)]
-```
+
+[[training dataset](https://drive.google.com/drive/folders/1kY2jiqGktcx1Fpy0aZYbE0pk3WmPWdJn?usp=sharing)]
+
 
 3. Training the affine and deformable registration models (optional):
 ```
