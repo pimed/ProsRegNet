@@ -16,10 +16,11 @@ The code is only for research purposes.
 1. Clone the repository:
 ```
 git clone https://github.com/pimed/ProsRegNet.git
+cd ProsRegNet
 ```
 2. Download the training dataset:
 ```
-To be added
+wget https://drive.google.com/drive/folders/1TlV9UTyRzXtjzFdP8fg_x3mt5K8zmB6I?usp=sharing
 ```
 
 3. Training the affine and deformable registration models (optional):
