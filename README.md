@@ -20,7 +20,11 @@ cd ProsRegNet
 ```
 2. Download the training dataset:
 
-[[training dataset](https://drive.google.com/drive/folders/1TlV9UTyRzXtjzFdP8fg_x3mt5K8zmB6I?usp=sharing)]
+[[training dataset](https://drive.google.com/file/d/1W3eV50pDGBKKz1XX6o6Fi7wzgAHZZBlr/view?usp=sharing)]
+
+```
+uzip 
+```
 
 
 3. Training the affine and deformable registration models (optional):
