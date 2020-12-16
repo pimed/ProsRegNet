@@ -34,7 +34,7 @@ run the registration_pipeline.ipynb jupyter notebok
 ```
 
 ### Models trained in our [MedIA paper](https://arxiv.org/pdf/2012.00991)
-[[Trained ProsRegNet affine model](http://pimed-synology1.stanford.edu:5000/sharing/78V4Qp6ZS)]
+[[Trained ProsRegNet affine model](https://drive.google.com/file/d/1REqMqNVLHRnFfuqzJIWrqQgctnaauSO1/view?usp=sharing)]
 [[Trained ProsRegNet deformable model](https://drive.google.com/file/d/1j1ai3RG6blpE6Zz9fmazoMsTyCQvGR9z/view?usp=sharing)]
 
 ### BibTeX
