@@ -14,10 +14,15 @@ The code is only for research purposes.
 
 ### Dependencies
 PyTorch 1.3.0
+
 Cuda 10.0
+
 Anaconda Python 3.7
+
 SimpleITK
+
 cv2
+
 skimage
 
 ### Usage
