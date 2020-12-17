@@ -12,6 +12,14 @@ Our source code has been modified from [cnngeometric_pytorch](https://github.com
 
 The code is only for research purposes.
 
+### Dependencies
+PyTorch 1.3.0
+Cuda 10.0
+Anaconda Python 3.7
+SimpleITK
+cv2
+skimage
+
 ### Usage
 1. Clone the repository:
 ```
@@ -22,7 +30,7 @@ cd ProsRegNet
 ```
 uzip the compressed folder named "datasets", this folder contains two subfolders: "training" and "testing". 
 ```
-The training dataset consists MRI and histopathology image slices of 25 subjects from [[The Cancer Imaging Archive PROSTATE-MRI dataset](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI)]. The testing dataset consists of one subject from [[The Cancer Imaging Archive Prostate Fused-MRI-Pathology dataset](https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology)].
+The small training dataset consists MRI and histopathology image slices of 25 subjects from [[The Cancer Imaging Archive PROSTATE-MRI dataset](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI)]. The small testing dataset consists of one subject from [[The Cancer Imaging Archive Prostate Fused-MRI-Pathology dataset](https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology)].
 
 
 3. Training the affine and deformable registration models (optional):
