@@ -22,7 +22,7 @@ cd ProsRegNet
 ```
 uzip the compressed folder named "datasets", this folder contains two subfolders: "training" and "testing". 
 ```
-This small training dataset consists MRI and histopathology images of 25 subjects from [[The Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI)]
+The training dataset consists MRI and histopathology image slices of 25 subjects from [[The Cancer Imaging Archive PROSTATE-MRI dataset](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI)]. The testing dataset consists of one subject from [[The Cancer Imaging Archive Prostate Fused-MRI-Pathology dataset](https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology)].
 
 
 3. Training the affine and deformable registration models (optional):
