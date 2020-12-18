@@ -62,7 +62,7 @@ If you use this code, please cite the following papers:
   title={ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate},
   author={Wei Shao and Linda Banh and Christian A. Kunder and Richard E. Fan and Simon J. C. Soerensen and Jeffrey B. Wang and Nikola C. Teslovich and Nikhil Madhuripan and Anugayathri Jawahar and Pejman Ghanouni and James D. Brooks and Geoffrey A. Sonn and Mirabela Rusu},
   journal={Medical Image Analysis},
-  doi={https://doi.org/10.1016/j.media.2020.101919}
+  doi={https://doi.org/10.1016/j.media.2020.101919},
   year={2020}
 }
 ```
