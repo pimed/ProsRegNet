@@ -4,7 +4,7 @@
 
 This is the PyTorch implementation of the following paper:
 
-Shao, Wei, et al. "ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate."  [[Accepted to Medical Image Analysis (MedIA)](https://arxiv.org/pdf/2012.00991)]
+Shao, Wei, et al. "ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate."  [[Accepted to Medical Image Analysis (MedIA)](https://doi.org/10.1016/j.media.2020.101919)]
 
 
 ### Introduction
@@ -49,7 +49,7 @@ python train.py --geometric-model tps
 run the registration_pipeline.ipynb jupyter notebok
 ```
 
-### Models trained with larger dataset, see details in our [MedIA paper](https://arxiv.org/pdf/2012.00991)
+### Models trained with larger dataset, see details in our [MedIA paper](https://doi.org/10.1016/j.media.2020.101919)
 [[Trained ProsRegNet affine model](https://drive.google.com/file/d/1REqMqNVLHRnFfuqzJIWrqQgctnaauSO1/view?usp=sharing)]
 [[Trained ProsRegNet deformable model](https://drive.google.com/file/d/1j1ai3RG6blpE6Zz9fmazoMsTyCQvGR9z/view?usp=sharing)]
 
@@ -62,6 +62,7 @@ If you use this code, please cite the following papers:
   title={ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate},
   author={Wei Shao and Linda Banh and Christian A. Kunder and Richard E. Fan and Simon J. C. Soerensen and Jeffrey B. Wang and Nikola C. Teslovich and Nikhil Madhuripan and Anugayathri Jawahar and Pejman Ghanouni and James D. Brooks and Geoffrey A. Sonn and Mirabela Rusu},
   journal={Medical Image Analysis},
+  doi={https://doi.org/10.1016/j.media.2020.101919}
   year={2020}
 }
 ```
