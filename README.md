@@ -10,7 +10,7 @@ Shao, Wei, et al. "ProsRegNet: A Deep Learning Framework for Registration of MRI
 ### Introduction
 Our source code has been modified from [cnngeometric_pytorch](https://github.com/ignacio-rocco/cnngeometric_pytorch), and have been tested successfully on Linux Mint, Cuda 10.0, RTX 2080 Ti, Anaconda Python 3.7, PyTorch 1.3.0.
 
-The code is only for research purposes. If you have any questions regarding the use of this code, feel free to contact Wei Shao (weishao@stanford.edu).
+The code is only for research purposes. If you have any questions regarding how to use this code, feel free to contact Wei Shao (weishao@stanford.edu).
 
 ### Dependencies
 PyTorch 1.3.0
