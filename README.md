@@ -58,12 +58,17 @@ run the registration_pipeline.ipynb jupyter notebok
 If you use this code, please cite the following papers:
 
 ```bibtex
-@article{shao2020prosregnet,
-  title={ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate},
-  author={Wei Shao and Linda Banh and Christian A. Kunder and Richard E. Fan and Simon J. C. Soerensen and Jeffrey B. Wang and Nikola C. Teslovich and Nikhil Madhuripan and Anugayathri Jawahar and Pejman Ghanouni and James D. Brooks and Geoffrey A. Sonn and Mirabela Rusu},
-  journal={Medical Image Analysis},
-  doi={https://doi.org/10.1016/j.media.2020.101919},
-  year={2020}
+@article{Shao_2021,
+	doi = {10.1016/j.media.2020.101919},
+	url = {https://doi.org/10.1016%2Fj.media.2020.101919},
+	year = 2021,
+	month = {feb},
+	publisher = {Elsevier {BV}},
+	volume = {68},
+	pages = {101919},
+	author = {Wei Shao and Linda Banh and Christian A. Kunder and Richard E. Fan and Simon J.C. Soerensen and Jeffrey B. Wang and Nikola C. Teslovich and Nikhil Madhuripan and Anugayathri Jawahar and Pejman Ghanouni and James D. Brooks and Geoffrey A. Sonn and Mirabela Rusu},
+	title = {{ProsRegNet}: A deep learning framework for registration of {MRI} and histopathology images of the prostate},
+	journal = {Medical Image Analysis}
 }
 ```
 
