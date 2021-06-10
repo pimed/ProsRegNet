@@ -4,7 +4,7 @@
 
 This is the PyTorch implementation of the following paper:
 
-Shao, Wei, et al. "ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate."  [[Accepted to Medical Image Analysis (MedIA)](https://doi.org/10.1016/j.media.2020.101919)]
+Shao, Wei, et al. "ProsRegNet: A Deep Learning Framework for Registration of MRI and Histopathology Images of the Prostate."  [[Medical Image Analysis (MedIA)](https://doi.org/10.1016/j.media.2020.101919)]
 
 
 ### Introduction
